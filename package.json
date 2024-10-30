@@ -1,7 +1,6 @@
 {
   "name": "trabalho",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioCunha361/trabalho.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SergioCunha361/trabalho/issues"
+  },
+  "homepage": "https://github.com/SergioCunha361/trabalho#readme",
+  "description": ""
 }
